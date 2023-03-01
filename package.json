@@ -1,0 +1,15 @@
+{
+  "name": "01-exercise-breaking-down-tasks",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve src",
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
